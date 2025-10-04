@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
+
 # Community Classroom Git Project
-=======
-VimCrypt~03!¿Ž$@^þGÿ%HøüáVÆ1~Ý±:-×wÿßp§ôoüI’½MgØ %=`!
->>>>>>> Stashed changes
+this is amazing logesh
